@@ -1,0 +1,32 @@
+{
+  "name": "lisden-second",
+  "displayName": "Lisden-Second",
+  "description": "Segundo intento de subir el tema",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Extensiones Lisden",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Extensiones Lisden-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/logoxLisden.png",
+  "author": {
+    "name": "Lisden",
+    "email": "dayenira.2@gmail.com",
+    "url": "https://github.com/xLisden"
+  },
+  "repository": {
+    "url": "https://github.com/xLisden/2.vsCodeTheme.git",
+    "type": "git"
+  },
+  "publisher": "xLisden"
+}
